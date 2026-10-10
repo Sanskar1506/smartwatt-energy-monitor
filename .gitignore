@@ -1,0 +1,13 @@
+```gitignore
+node_modules/
+.env
+.env.*
+!.env.example
+frontend/dist/
+backend/data/
+data/
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store
+```
